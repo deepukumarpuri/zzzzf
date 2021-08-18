@@ -22,7 +22,7 @@ class Config(object):
 This is Permanent Files Store Bot!
 Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
-🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
+🤖 **My Name:** [SUPER Files Store Bot](https://t.me/{BOT_USERNAME})
 
 📝 **Language:** [Python3](https://www.python.org)
 
@@ -30,23 +30,31 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @DKBOTZHELP
 
-👥 **Support Group:** [Linux Repositories](https://t.me/DevsZone)
+👥 **Support Group:** [DK BOTZ SUPPORT](https://t.me/DK_BOTZ)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Discovery_Updates)
+📢 **Updates Channel:** [DK BOTZ](https://t.me/DKBOTZ)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @DKBOTZHELP
 
-Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
+🤖 **My Name:** [SUPER Files Store Bot](https://t.me/{BOT_USERNAME})
 
-Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
+📝 **Language:** [Python3](https://www.python.org)
 
-[Donate Now](https://www.paypal.me/AbirHasan2005) (PayPal)
+📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
+
+📡 **Hosted on:** [Heroku](https://heroku.com)
+
+🧑🏻‍💻 **Developer:** @DKBOTZHELP
+
+👥 **Support Group:** [DK BOTZ SUPPORT](https://t.me/DK_BOTZ)
+
+📢 **Updates Channel:** [DK BOTZ](https://t.me/DKBOTZ)
 """
 	HOME_TEXT = """
-Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
+Hi, [{}](tg://user?id={})\n\nThis is Permanent **DK BOTZ File Store Bot**.
 
 Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check **About Bot** Button.
 """

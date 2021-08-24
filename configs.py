@@ -23,7 +23,7 @@ This is Permanent Files Store Bot!
 Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 This Bot In VPS Dontate Me To Keep The Service Alive
 
-Donate Channel :- 
+Donate Channel :- @DKBOTZDONATE
 
 🤖 **My Name:** [SUPER Files Store Bot](https://t.me/{BOT_USERNAME})
 

@@ -21,6 +21,9 @@ class Config(object):
 	ABOUT_BOT_TEXT = f"""
 This is Permanent Files Store Bot!
 Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
+This Bot In VPS Dontate Me To Keep The Service Alive
+
+Donate Channel :- 
 
 🤖 **My Name:** [SUPER Files Store Bot](https://t.me/{BOT_USERNAME})
 
@@ -28,8 +31,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
 
-📡 **Hosted on:** [Heroku](https://heroku.com)
-
+📡 **Hosted on:** VPS
 🧑🏻‍💻 **Developer:** @DKBOTZHELP
 
 👥 **Support Group:** [DK BOTZ SUPPORT](https://t.me/DK_BOTZ)
@@ -45,7 +47,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
 
-📡 **Hosted on:** [Heroku](https://heroku.com)
+📡 **Hosted on:** VPS
 
 🧑🏻‍💻 **Developer:** @DKBOTZHELP
 

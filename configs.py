@@ -27,9 +27,11 @@ Donate Channel :- @DKBOTZDONATE
 
 🤖 **My Name:** [SUPER Files Store Bot](https://t.me/{BOT_USERNAME})
 
-📝 **Language:** [Python3](https://www.python.org)
+📝 **Language:** [Python3]
+📚 **Library:** [Pyrogram](https(https://www.python.org)
+://docs.pyrogram.org)
 
-📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
+📢 **Donate Channel:** [DK BOTZ] (https://t.me/DKBOTZDONATE)
 
 📡 **Hosted on:** VPS
 🧑🏻‍💻 **Developer:** @DKBOTZHELP
@@ -46,6 +48,8 @@ Donate Channel :- @DKBOTZDONATE
 📝 **Language:** [Python3](https://www.python.org)
 
 📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
+
+📢 **Donate Channel:** [DK BOTZ] (https://t.me/DKBOTZDONATE)
 
 📡 **Hosted on:** VPS
 

@@ -33,7 +33,6 @@ Donate Channel :- @DKBOTZDONATE
 
 📢 **Donate Channel:** [DK BOTZ] (https://t.me/DKBOTZDONATE)
 
-📡 **Hosted on:** VPS
 🧑🏻‍💻 **Developer:** @DKBOTZHELP
 
 👥 **Support Group:** [DK BOTZ SUPPORT](https://t.me/DK_BOTZ)
@@ -50,8 +49,6 @@ Donate Channel :- @DKBOTZDONATE
 📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
 
 📢 **Donate Channel:** [DK BOTZ] (https://t.me/DKBOTZDONATE)
-
-📡 **Hosted on:** VPS
 
 🧑🏻‍💻 **Developer:** @DKBOTZHELP
 

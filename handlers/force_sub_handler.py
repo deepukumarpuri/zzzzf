@@ -41,7 +41,7 @@ async def handle_force_sub(bot: Client, cmd: Message):
                     ]
                 ]
             ),
-            parse_mode="markdown
+            parse_mode="markdown"
         )
         return 400
     except Exception:

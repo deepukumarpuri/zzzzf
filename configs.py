@@ -27,20 +27,20 @@ Donate Channel :- @DKBOTZDONATE
 
 🤖 **My Name:** [SUPER Files Store Bot](https://t.me/{BOT_USERNAME})
 
-📝 **Language:** [Python3]
-📚 **Library:** [Pyrogram](https(https://www.python.org)
-://docs.pyrogram.org)
+📝 **Language:** [Python3](https://www.python.org)
 
-📢 **Donate Channel:** [DK BOTZ] (https://t.me/DKBOTZDONATE)
+📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
 
-🧑🏻‍💻 **Developer:** @DKBOTZHELP
+📢 **Donate Channel:** [DK BOTZ](https://t.me/DKBOTZDONATE)
+
+🧑🏻‍💻 **Developer:** [Anonymous](https://t.me/DKBOTZHELP)
 
 👥 **Support Group:** [DK BOTZ SUPPORT](https://t.me/DK_BOTZ)
 
 📢 **Updates Channel:** [DK BOTZ](https://t.me/DKBOTZ)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @DKBOTZHELP
+🧑🏻‍💻 **Developer:** [Anonymous](https://t.me/DKBOTZHELP)
 
 🤖 **My Name:** [SUPER Files Store Bot](https://t.me/{BOT_USERNAME})
 
@@ -48,9 +48,9 @@ Donate Channel :- @DKBOTZDONATE
 
 📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
 
-📢 **Donate Channel:** [DK BOTZ] (https://t.me/DKBOTZDONATE)
+📢 **Donate Channel:** [DK BOTZ](https://t.me/DKBOTZDONATE)
 
-🧑🏻‍💻 **Developer:** @DKBOTZHELP
+🧑🏻‍💻 **Developer:** [Anonymous](https://t.me/DKBOTZHELP)
 
 👥 **Support Group:** [DK BOTZ SUPPORT](https://t.me/DK_BOTZ)
 

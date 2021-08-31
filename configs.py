@@ -7,7 +7,7 @@ class Config(object):
 	API_ID = int(os.environ.get("API_ID"))
 	API_HASH = os.environ.get("API_HASH")
 	BOT_TOKEN = os.environ.get("BOT_TOKEN")
-	BOT_USERNAME = SuperFileStoreBot
+	BOT_USERNAME = os.environ.get("BOT_USERNAME")
 	DB_CHANNEL = -1001543749238
 	BOT_OWNER = 1805398747
 	DATABASE_URL = os.environ.get("DATABASE_URL")

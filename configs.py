@@ -3,16 +3,18 @@
 import os
 
 
+
+
 class Config(object):
 	API_ID = int(os.environ.get("API_ID"))
 	API_HASH = os.environ.get("API_HASH")
 	BOT_TOKEN = os.environ.get("BOT_TOKEN")
 	BOT_USERNAME = os.environ.get("BOT_USERNAME")
-	DB_CHANNEL = int(os.environ.get("-1001543749238"))
-	BOT_OWNER = int(os.environ.get("1805398747"))
+	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", -1001543749238))
+	BOT_OWNER = int(os.environ.get("BOT_OWNER", 1805398747))
 	DATABASE_URL = os.environ.get("DATABASE_URL")
-	UPDATES_CHANNEL = os.environ.get("-1001287353197")
-	LOG_CHANNEL = os.environ.get("-1001543749238", None)
+	UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", -1001287353197)
+	LOG_CHANNEL = os.environ.get("LOG_CHANNEL", -1001543749238)
 	BANNED_USERS = set(int(x) for x in os.environ.get("BANNED_USERS", "1234567890").split())
 	FORWARD_AS_COPY = bool(os.environ.get("FORWARD_AS_COPY", True))
 	BROADCAST_AS_COPY = bool(os.environ.get("BROADCAST_AS_COPY", False))
